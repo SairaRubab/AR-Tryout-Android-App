@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Sat Jul 28 12:45:48 PKT 2018
+1.base=C\:\\Users\\Mariam\\Documents\\VRT APP\\app\\build\\intermediates\\assets\\debug
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=ASSET
+0.path=frozen_inference_graph.pb
+0.set=ASSET
+0.base=C\:\\Users\\Mariam\\Documents\\VRT APP\\app\\build\\intermediates\\assets\\debug
+1.path=text_label_lfw.txt

@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "1089764175144",
+    "firebase_url": "https://tryshop-70468.firebaseio.com/",
+    "project_id": "tryshop-70468",
+    "storage_bucket": "tryshop-70468.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089764175144:android:451e38951e67686a",
+        "android_client_info": {
+          "package_name": "com.fyp.tryone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089764175144-orhst6lt95u1lo8g1htfk6nhfqgbv6fm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fyp.tryone",
+            "certificate_hash": "98e9cf1afaa12a59d719f1cf9daa6bca05ae69f6"
+          }
+        },
+        {
+          "client_id": "1089764175144-555s6ve8e8fahk12apoqejqkpbi8vq74.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1089764175144-555s6ve8e8fahk12apoqejqkpbi8vq74.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAA3-iLlAaV4t8zT7UZYk_B27ps_KaK0Nc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089764175144-555s6ve8e8fahk12apoqejqkpbi8vq74.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
